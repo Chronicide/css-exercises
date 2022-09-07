@@ -1,0 +1,16 @@
+/*Shared Class Qualities*/
+.button1, .button2 {
+    font-size: 28px;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+/*Button 1*/
+.button1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+/*Button 2*/
+.button2 {
+    background-color: rgb(255, 255, 0);
+}
