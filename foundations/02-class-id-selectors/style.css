@@ -2,11 +2,12 @@
 .odd_numbers, 
 .number3 {
     background-color: lightcoral;
+    font-family: Verdana, DejaVu, sans-serif;
 }
 
 /*Number 2 Class*/
-.number2 {
-    color: blue;
+#number2 {
+    color: rgb(0, 0, 255);
     font-size: 36px;
     
 }
@@ -16,9 +17,9 @@
 }
 
 /*Number 4 Class*/
-.number4 {
-    color: black;
-    background-color: lightgreen;
+#number4 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
 }
